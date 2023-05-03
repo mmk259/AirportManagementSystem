@@ -38,7 +38,7 @@ Functions:
 •	If Id is found in the structure the program will proceed.
 Else the program will end.
 
-	Using Id as a reference to manage and extract the data in the structure. 
+*	Using Id as a reference to manage and extract the data in the structure. 
 
 2. Seat management:
 
@@ -76,15 +76,15 @@ It displays your original seat and allows you to change your seat if you want to
 
 b)	Flight Information.
 It displays: 
-	Plane Number.
-	Time.
-	Gate Number.
-	Destination.
+*	Plane Number.
+*	Time.
+*	Gate Number.
+*	Destination.
 
 c)	Proceed.
 The program asks for the type of baggage you are carrying.
-	If you have hand carry it will proceed towards generating boarding pass.
-	If you have luggage it will ask for the weight of your luggage which has the limit of 30kg.
+*	If you have hand carry it will proceed towards generating boarding pass.
+*	If you have luggage it will ask for the weight of your luggage which has the limit of 30kg.
 a)	If the weight is under limit it will directly generate the luggage tag and proceed towards generating the boarding pass.
 b)	It the weight is over the limit it gives you two options.
  	Reduce the weight and try again.
@@ -93,16 +93,16 @@ b)	It the weight is over the limit it gives you two options.
 
 Luggage Tag Information:
 It displays:
-	Plane Number.
-	Time.
-	Destination.
-	Weight of the Luggage.
+*	Plane Number.
+*	Time.
+*	Destination.
+*	Weight of the Luggage.
 Boarding pass:
 It displays:
-	Passenger Name.
-	Plane Number.
-	Time.
-	Destination.
-	Seat Number.
-	Gate Number.
+*	Passenger Name.
+*	Plane Number.
+*	Time.
+*	Destination.
+*	Seat Number.
+*	Gate Number.
 *"Note: The menu options are sequential so if you have choose any option you cannot go back to the selection of previous option."*
