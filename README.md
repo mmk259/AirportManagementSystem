@@ -1,5 +1,6 @@
 # AirportManagementSystem
 ![image](https://user-images.githubusercontent.com/108261815/236044211-53689edf-627e-4dcb-b215-495c88183ce9.png)
+
 1: Background Description:
 Current Self-service technology displays information of flight and seat management, and prints boarding pass of those passengers who are travelling with only hand carries.
 
@@ -104,4 +105,4 @@ It displays:
 	Destination.
 	Seat Number.
 	Gate Number.
-* "Note: The menu options are sequential so if you have choose any option you cannot go back to the selection of previous option." *
+*"Note: The menu options are sequential so if you have choose any option you cannot go back to the selection of previous option."*
